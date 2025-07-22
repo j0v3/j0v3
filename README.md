@@ -1,5 +1,5 @@
 # Olá 👋
-🧑‍💻 Me chamo Jovane e sou desenvolvedor Front-end e engenheiro de software formado e estou sempre em busca de novos conhecimentos e aprendizados. Criar coisas mesmo que simples utilizando códigos não é apenas desejo momentâneo é a realização dos sonhos pessoais e de todos que precisam de algo.
+🧑‍💻 Me chamo Jovane e sou desenvolvedor Front-end e Engenheiro de software formado e estou sempre em busca de novos conhecimentos e aprendizados. Criar coisas mesmo que simples utilizando códigos não é apenas desejo momentâneo é a realização dos sonhos pessoais e de todos que precisam de algo.
 
 Algumas das coisas que sei estão abaixo:
 
