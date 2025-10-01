@@ -1,34 +1,61 @@
-# Olá 👋
-🧑‍💻 Me chamo Jovane e sou desenvolvedor Front-end e Engenheiro de software formado e estou sempre em busca de novos conhecimentos e aprendizados. Criar coisas mesmo que simples utilizando códigos não é apenas desejo momentâneo é a realização dos sonhos pessoais e de todos que precisam de algo.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h1>Olá! Eu sou Jovane Nunes</h1>
+  
+  <p>Bem-vindo(a) ao meu cantinho digital! Sou um(a) desenvolvedor(a) focado(a) em transformar ideias complexas em soluções elegantes e funcionais.</p>
+</div>
 
-Algumas das coisas que sei estão abaixo:
+---
 
-### Linguagens: 
-![Static Badge](https://img.shields.io/badge/Html-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Css-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+## 🛠️ O que eu faço
 
-### Bibliotecas: 
-![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge)
-### Frameworks: 
-  em breve...
-### Outras Ferramentas: 
-![Static Badge](https://img.shields.io/badge/GitHub-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Git-blue?style=for-the-badge)
+<!---   **Backend:** Construindo APIs robustas com linguagens como **Python** e **Node.js**.-->
+-   **Frontend:** Criando interfaces de usuário dinâmicas e responsivas com **React, Html, Css e JavaScript**.
+<!---   **DevOps:** Automatizando fluxos de trabalho e gerenciando infraestrutura com **Docker** e **AWS** (ou outras ferramentas).-->
+-   **Aprendizado Constante:** Atualmente explorando **React**!
 
+---
 
-<!--
-**j0v3/j0v3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Minhas Ferramentas Favoritas (Stack)
 
-Here are some ideas to get you started:
+| Categoria | Badges e Links |
+| :---: | :--- |
+| **Linguagens Principais** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  |
+|**Outras Linguagens**| ![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css&logoColor=white)|
+| **Frameworks/Bibliotecas** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)|
+| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)|
+|**Ferramentas**|![Static Badge](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)|
+<!--| **DevOps / Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+## 🌐 Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnnunes/)
+[![Portfólio Pessoal](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j0n3n00@gmail.com)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([LINK DO SEU TWITTER])-->
+
+---
+
+## 📊 Estatísticas do GitHub
+
+Veja um pouco da minha atividade e das minhas linguagens favoritas por aqui!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j0v3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+       alt="Estatísticas do GitHub"
+       style="width: 100%; max-width: 480px; margin: 10px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0v3&layout=compact&theme=dracula"
+       alt="Linguagens Mais Usadas"
+       style="width: 100%; max-width: 480px; margin: 10px;"/>
+  
+  <img src="https://github-readme-streak-stats.vercel.app/?user=j0v3&theme=dracula"
+       alt="GitHub Streak"
+       style="width: 100%; max-width: 480px; margin: 10px;"/>
+</div>
+
+---
