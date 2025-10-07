@@ -12,7 +12,7 @@
 <!---   **Backend:** Construindo APIs robustas com linguagens como **Python** e **Node.js**.-->
 -   **Frontend:** Criando interfaces de usuário dinâmicas e responsivas com **React, Html, Css e JavaScript**.
 <!---   **DevOps:** Automatizando fluxos de trabalho e gerenciando infraestrutura com **Docker** e **AWS** (ou outras ferramentas).-->
--   **Aprendizado Constante:** Atualmente explorando **React**!
+-   **Aprendizado Constante:** Atualmente explorando **React** e **PHP**!
 
 ---
 
