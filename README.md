@@ -33,7 +33,7 @@
 
 ## 🌐 Conecte-se comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/jnnunes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnnunes/)
 [![Portfólio Pessoal](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://j0v3.github.io/projects/Web/portfolio/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zjrvl9jsr@mozmail.com)
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([LINK DO SEU TWITTER])-->
