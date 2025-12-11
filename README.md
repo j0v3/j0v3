@@ -41,23 +41,3 @@
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([LINK DO SEU TWITTER])-->
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-Veja um pouco da minha atividade e das minhas linguagens favoritas por aqui!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0v3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-       alt="Estatísticas do GitHub"
-       style="width: 100%; max-width: 480px; margin: 8px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0v3&layout=compact&theme=dracula"
-       alt="Linguagens Mais Usadas"
-       style="width: 100%; max-width: 480px; margin: 8px;"/>
-  
-  <img src="https://github-readme-streak-stats.vercel.app/?user=j0v3&theme=dracula"
-       alt="GitHub Streak"
-       style="width: 100%; max-width: 480px; margin: 8px;"/>
-</div>
-
----
