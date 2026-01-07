@@ -20,7 +20,7 @@
 
 | Categoria | Badges e Links |
 | :---: | :--- |
-| **Linguagens Principais** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  |
+| **Linguagens Principais** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php&logoColor=purple)  |
 |**Outras Linguagens**| ![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css&logoColor=white)|
 | **Frameworks/Bibliotecas** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)|
 | **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)|
