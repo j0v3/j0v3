@@ -12,7 +12,7 @@
 <!---   **Backend:** Construindo APIs robustas com linguagens como **Python** e **Node.js**.-->
 -   **Frontend:** Criando interfaces de usuário dinâmicas e responsivas com **React, Html, Css e JavaScript**.
 <!---   **DevOps:** Automatizando fluxos de trabalho e gerenciando infraestrutura com **Docker** e **AWS** (ou outras ferramentas).-->
--   **Aprendizado Constante:** Atualmente explorando **React**, **PHP** and **Wordpress**!
+-   **Aprendizado Constante:** Atualmente explorando **Wordpress** and **Docker**!
 
 ---
 
@@ -24,7 +24,8 @@
 |**Outras Linguagens**| ![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css&logoColor=white)|
 | **Frameworks/Bibliotecas** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)|
 | **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)|
-|**Ferramentas**|![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white&logoSize=auto) ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto) ![Wordpress](https://img.shields.io/badge/Wordpress%20-%20blue?style=for-the-badge&logo=wordpress)|
+|**Ferramentas**|![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white&logoSize=auto) ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto) ![Wordpress](https://img.shields.io/badge/Wordpress%20-%20blue?style=for-the-badge&logo=wordpress)| ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoSize=Auto)
+ |
 <!--| **DevOps / Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |-->
 
 <br>
